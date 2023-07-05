@@ -1,4 +1,3 @@
-//your JS code here. If required.
 let p=document.createElement("p");
 p.setAttribute('id','timer')
 document.body.append(p);
